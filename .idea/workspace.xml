@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e2b170-0892-44a6-8716-abf5bde9a450" name="Changes" comment="Version 2. Se agrega la funcionalidad de recibir el ID y/o Titulo para que dado esta información se busque en la BD creado y responda si se encontró o no el titulo buscado" />
+    <list default="true" id="69e2b170-0892-44a6-8716-abf5bde9a450" name="Changes" comment="Version 3. Se agrega el README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698979061832</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Version 3. Se agrega el README">
+      <option name="closed" value="true" />
+      <created>1698979313792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698979313792</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +108,7 @@
     <MESSAGE value="Version 3. Se agragra el README y se realiza una actualización" />
     <MESSAGE value="Version 1. Codigo fuente para consumir el servicio: jsonplaceholder.typicode.com/posts y almacenar el resultado en una BD" />
     <MESSAGE value="Version 2. Se agrega la funcionalidad de recibir el ID y/o Titulo para que dado esta información se busque en la BD creado y responda si se encontró o no el titulo buscado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 2. Se agrega la funcionalidad de recibir el ID y/o Titulo para que dado esta información se busque en la BD creado y responda si se encontró o no el titulo buscado" />
+    <MESSAGE value="Version 3. Se agrega el README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 3. Se agrega el README" />
   </component>
 </project>
