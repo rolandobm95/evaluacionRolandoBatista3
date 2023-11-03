@@ -1,0 +1,6 @@
+org/example/PostController.class
+org/example/PostRepository.class
+org/example/RestTemplateConfig.class
+org/example/PostService.class
+org/example/Post.class
+org/example/Application.class
